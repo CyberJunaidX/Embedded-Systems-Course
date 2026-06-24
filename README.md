@@ -1,7 +1,5 @@
 # Embedded-Systems-Course
 
-# Embedded Systems Notes
-
 These are simple Embedded Systems subject notes for beginners.
 
 ---
